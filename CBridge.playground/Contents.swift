@@ -1,5 +1,9 @@
 import Foundation
 
+/*
+ https://www.uraimo.com/2016/04/07/swift-and-c-everything-you-need-to-know/
+ */
+
 // int array
 
 let array: [Int8] = [1, 2, 3, 4]
