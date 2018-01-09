@@ -29,6 +29,8 @@ open class Super: Base {
 // super classes
 //
 class Sub: Super {
+    let otherVal = "yada"
+    
     public init(val: String, nada: Int) {
         // this is not a valid initializer
         super.init(val: "sub", dummy: 0, dummy2: 0)
